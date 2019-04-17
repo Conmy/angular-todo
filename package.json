@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build:github-pages": "ng build --prod --output-path dist --base-href /angular-todo/"
+    "build:github-pages": "ng build --prod --output-path docs --base-href /angular-todo/"
   },
   "private": true,
   "dependencies": {
